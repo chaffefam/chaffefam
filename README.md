@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Peter
 - 👀 I’m interested in reading Fantasy adventures books like books from the authers of Robin Hobbs and Raymond E Feist. 
       Just to name a couple. Also being with my family. Don't forget coding.
-- 🌱 I’m currently learning javascript, reactjs also nodejs as well. Just started playing with Sanity.
+- 🌱 I’m currently learning javascript, reactjs also nodejs as well. Just started playing with Sanity, Gatsby and Netlify.
 - 💞️ I’m looking to collaborate on some open source projects soon just to get back to programming again. 
 - 📫 How to reach me on slack chaffefam.slack.com
 
